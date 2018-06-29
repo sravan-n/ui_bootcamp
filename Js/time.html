@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>
+	Sample Login page
+</title>
+
+
+</head>
+<body>
+<h1 id="time"></h1>
+<h2 id="zone"></h2>
+<script>
+debugger;
+document.getElementById('zone').innerHTML = Intl.DateTimeFormat().resolvedOptions().timeZone;
+function addingzero(x){
+
+	if(x < 10){
+		return '0'+ x;
+	} else{
+		return x;
+	}
+}
+
+setInterval(function(){
+
+	var date = new Date();
+	var time = date.getHours() +":"+ addingzero(date.getMinutes()) +":"+ addingzero(date.getSeconds());
+
+	document.getElementById('time').innerHTML = time;
+}, 1000)
+	
+	
+
+</script>
+</body>
+</html>

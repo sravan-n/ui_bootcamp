@@ -1,0 +1,139 @@
+
+
+in css 
+
+	Media queries  if condition 
+	-------------
+	
+	@media 
+	meta tag
+		
+		viewport 
+		
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	
+	desktop 
+	laptops  
+	
+	ipad 
+	
+	mobiles 
+		- browser
+		- native apps
+	--------------------------------------------------------------------------------
+	
+
+	two ways we can write the javascript 
+	
+		1) internal javascript
+		2) external javascript 
+	
+	
+	
+	
+	
+	
+		JavaScript
+ 
+		•	Getting Started
+		
+			o	An introduction to JavaScript
+			o	Fundamentals of JS
+			o	Writing Simple Example
+			o	Before you should know
+			
+		•	Language Basics
+		
+			o	Data Types
+			o	Variables
+			o	Comments
+			
+		•	Operators
+		
+			o	Arithmetic Operators
+			o	Comparison Operators
+			o	Logical Operators
+			o	Assignments
+			o	Ternary
+			
+		•	Conditional Statements
+		
+			o	if
+			o	if else
+			o	if else if else
+			o	switch
+			o	break
+			o	continue
+			
+		•	Loops
+		
+			o	For
+			o	For in
+			o	While
+			o	Do while
+			
+		•	Arrays
+		•	Events 
+		•	Functions
+		
+			o	Create function
+			o	Closures
+			
+		•	Dialog Boxes
+			o	alert
+			o	confirm
+			o	prompt
+			
+		•	Redirect
+			o	Window. Location
+			o	History
+			o	User Agent (Browser/Device Target)
+			
+		•	Error Handling
+			runtime errors
+		•	JavaScript Objects
+			o	Objects
+			o	Number
+			o	Boolean
+			o	Strings
+			o	Arrays
+			o	Date
+			o	Math
+			o	RegExp
+			o	HTML DOM
+		•	Validations
+		•	Object Oriented JavaScript
+			o	Class
+			o	Objects
+			o	Property
+			o	Method
+			o	Constructor
+			o	Inheritance
+			o	Encapsulation
+			o	Abstraction
+			o	Polymorphism
+		•	JS References
+		•	JS Cheat Sheet
+		•	JS Custom Plugin Create
+
+	Jacript examples and doubt classes
+	
+	14/15th
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	

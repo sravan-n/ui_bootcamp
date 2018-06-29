@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>
+	Sample Login page
+</title>
+<style>
+	#page{
+		width:400px;
+		height:400px;
+		background:gray;
+		margin:0 auto;
+	}
+	.userPwd{
+		
+		width:200px;
+		height:30px;
+		border:none;
+		border-radius:10px;
+		font-size:20px;
+		padding:0 0 0 10px;
+		margin:20px 0 0 0;
+	}
+	#login{
+		padding:50px 0 0 0;
+		text-align:center;
+	}
+	.color-change{
+		color:gray;
+		background:#FFF;
+		
+	}
+	
+</style>
+<script>
+		function login(){
+		if(document.getElementsByClassName('userPwd') && document.getElementsByClassName('userPwd').length){
+		var userName  =  document.getElementsByClassName('userPwd')[0].value;
+		
+		var password = document.getElementsByClassName('userPwd')[1].value;
+		
+		
+		alert("UserName:"+ userName +", Password: "+password);
+	} else{
+		alert('no inputs');
+		
+	}
+	
+	
+	}
+</script>
+</head>
+<body>
+
+
+<div id="page">
+<div id="login">
+	<form >
+		<input type="text" class="userPwd" placeholder="User Name..."/>
+		<br/>
+		<input type="password" class="userPwd" placeholder="Password..."/>
+		<br/>
+		<input type="submit" class="userPwd color-change" onclick="login();">
+	</form>
+</div>
+</div>
+
+
+</body>
+</html>

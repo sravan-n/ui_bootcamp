@@ -1,0 +1,44 @@
+
+					
+					<!DOCTYPE html>
+<html>
+<head>
+<title>
+	Sample Login page
+</title>
+
+
+</head>
+<body>
+<table id="page" border=1></table>
+
+<script>
+
+	var data= [ 
+					
+					{"Name":"Alfreds Futterkiste","City":"Berlin","Country":"Germany"},
+					{"Name":"Ana Trujillo Emparedados y helados","City":"México D.F.","Country":"Mexico"},
+					{"Name":"Antonio Moreno Taquería","City":"México D.F.","Country":"Mexico"}, {"Name":"Around the Horn","City":"London","Country":"UK"}, 
+					{"Name":"B's Beverages","City":"London","Country":"UK"}, 
+					{"Name":"Berglunds snabbköp","City":"Luleå","Country":"Sweden"},
+					{"Name":"Blauer See Delikatessen","City":"Mannheim","Country":"Germany"}, {"Name":"Blondel père et fils","City":"Strasbourg","Country":"France"}, {"Name":"Bólido Comidas preparadas","City":"Madrid","Country":"Spain"},
+					{"Name":"Bon app'","City":"Marseille","Country":"France"},
+					{"Name":"Bottom-Dollar Marketse","City":"Tsawassen","Country":"Canada"}, {"Name":"Cactus Comidas para llevar","City":"Buenos Aires","Country":"Argentina"}, {"Name":"Centro comercial Moctezuma","City":"México D.F.","Country":"Mexico"}, {"Name":"Chop-suey Chinese","City":"Bern","Country":"Switzerland"},
+					{"Name":"Comércio Mineiro","City":"São Paulo","Country":"Brazil"}
+					
+
+					]
+					
+				var rows = "<tr><th>Name</th><th>City</th><th>Country</th></tr>";
+				var x='';
+				for(var i =0; i < data.length; i++){
+					if(data[i].Country !== 'UK'){
+					x = x + "<tr><td>"+ data[i].Name+"</td><td>"+ data[i].City+"</td><td>"+ data[i].Country+"</td></tr>";
+					}
+				}	
+				document.getElementById('page').innerHTML = rows + x;	
+					
+					
+</script>
+</body>
+</html>

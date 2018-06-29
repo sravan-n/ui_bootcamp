@@ -1,0 +1,127 @@
+<open tag>
+
+</closed tag>
+
+Empty tags
+
+	<meta/>
+		support multilanguage
+		Page decriptions
+		keywords
+		
+	
+	
+	<link/>
+	<base/>
+	
+container tags
+	<style></style>
+	<script></script>
+	<noscript></noscript>
+	
+	
+	A - 64, 0100 0011
+	
+	
+	hexa decimal 0  - 9 A B C D E F
+	octal - 8
+	
+	0101 1010
+	
+	0100 0011
+	
+	---
+	ASSCI values
+	
+	
+	----
+	
+	001010101010101 -- >
+	
+	-------------------------
+	
+	
+	keywords
+	
+	
+	<meta name="keywords" content="clothes for baby girl 1 year, baby boy"/>
+	
+	SEO -- 
+	
+	
+	css 
+	
+	style
+	link
+	
+	
+	javascript
+	
+	Script
+	noscript
+	
+	
+	
+	h group tags
+	formating tags
+	paragraph
+	
+	pre tag
+	
+	table tag
+	
+	Attubuties 
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	

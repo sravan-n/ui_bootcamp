@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+	
+	<meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>jQuery UI Datepicker - Default functionality</title>
+  <link rel="stylesheet" href="http://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+  
+  <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+</head>
+<body>
+
+	<form>
+		<input type="text" name="userNmae" maxlength="5"/>
+		<input type="password" name="password"/>
+		
+		<input type="checkbox" name="staySign"/>
+		<input type="button" value="Login"/>
+		
+		<input type="text" id="datepicker">
+		<select id="sec"></select>
+		
+		<input type="reset"/>
+	
+	</form>
+ <script>
+ 
+	var selectOptions =  document.getElementById('sec');
+	var option = "";
+	for(var i=1; i < 1000; i++){
+		option =  option + '<option>'+i+'</option>';
+	}
+ 
+ selectOptions.innerHTML = option;
+ 
+  $( function() {
+    $( "#datepicker" ).datepicker();
+	
+	
+	
+	
+	
+	
+  } );
+  </script>
+</body>
+</html>
+

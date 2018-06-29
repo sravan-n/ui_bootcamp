@@ -1,0 +1,106 @@
+3 ways to apply css
+	1) inline  -- with in the tag  - 6 
+	2) internal -- with in web page  -- 3
+	2) external  - out side of web pages - 1
+	
+1) CSS reset
+	
+	selectors:
+		*
+		
+		TagName
+		ID
+		class
+		
+----------------
+
+	
+	background-color
+	background-image
+	background-repeat
+	background-attachement
+	background-position
+	
+	
+	background: #ffffff url("img_tree.png") no-repeat right top;
+	
+	
+----------------------------
+
+
+Margin: 10px 0px 10px 0px;
+
+padding
+
+--------------------
+
+table :
+
+cellpadding
+
+cellspacing
+
+-----------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	

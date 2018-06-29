@@ -1,0 +1,335 @@
+Web developement
+
+User Interface
+
+Mobile User Interface
+
+------------------------
+
+Frontend developer 
+
+GUI developer 
+
+Web developer 
+
+UI/UX developers
+
+----------------------
+
+
+Designing 
+
+	Photoshop
+	Illitarate
+
+	Wireframes -- 
+	
+	
+developerment
+	- HTML
+	- CSS
+	- JavaScript 
+	- JSON -- data format
+	- AJAX  - UI -- Restapi
+	
+	also 
+		Javascript Frameworks ( 100+)
+			-- Angualr - 10
+			-- React 
+			-- redux
+			-- node 
+			-- Backbone
+			-- ....
+
+-------------------------------------
+
+core tech
+
+	HTML 
+		HTML 4/5
+	CSS 
+		CSS 2/3
+			-- 
+				Bootstrap 
+				LESS 
+				SASS
+				Foundation
+				W3CSS
+				
+	JAVASCRIPT -- 
+			-- Angualr - 10
+			-- React 
+			-- redux
+			-- node 
+			-- Backbone
+			-- ....
+------------------------------------
+	-- 
+		2 dif application
+		
+			-- desktop  --   
+				-- chrome, .exe
+			---
+				
+			-- web application -- 
+				goto meeting
+				
+				web  -- broweser 
+				hybrid - browser / mobile .. Ionic/ coredova
+				native -- mobile application
+			
+----------------------------------------------------------			
+	web application
+	
+		.Net (ASP),
+		Java (JSP)
+	C, C++, ete..
+		
+	HTML -- 
+
+	
+.Net (ASP)  - Rolp.com
+Java (JSP)  -- 
+C, C++,--   10sec
+--
+
+	intermidiate tool  - rendering -- time consuming..
+		
+	.net code into HTML  - 1s
+---------
+
+	browser  -- HTML
+	internet 
+	HTTP
+---------------------	
+	
+	
+	http://www.mobilerays.com/
+	
+	
+	CSS
+	Wireframe 
+	data 
+	
+------------------------------------
+
+full stack
+	- UI       Service     Data
+	 A  H C// JACA/.net  oracle/ sql --  table 
+
+	 
+mean stack
+
+	UI    		service   Data
+	----------------------
+	
+	H C A R    Node.js		Mongo  -- JSON
+
+UX.. 
+---
+
+9pm ist - 7:30AM - 2 
+--------
+
+10h 10c 20 JS-- 
+-------------------------------------------
+
+SGML 
+
+HTML --
+
+Hyper text markup langulage.
+
+	<HTML>
+
+	-- Tim BenersLee
+	
+PROTO type 
+
+	--POC- 
+
+HTML  - 
+Browser  - IE
+
+HTTP -- 
+
+Internet 
+
+web page develpement
+
+
+
+	
+1980  -- 
+
+HTML1
+	-- 16 tags 
+
+HTML 2
+
+3 
+
+4 
+
+Latest one is HTML5 
+	200+
+	
+	50+
+	
+		20+
+
+OS windows10 
+-- 
+ -- windows 98 GUI 
+ -- MSDOS  commend line - 
+ 
+ -- PCDOS  -- IBM - X
+ 
+ - UNIX
+ -- 
+
+----------------------------
+HTML
+	
+	Basic structure of HTML
+	
+	<!DOCTYPE html>
+	<html> 
+		<head>
+			<title>Hello world</title>
+		<head>
+		
+		<body>
+			<p>Hello world</p>
+		</body>
+	
+	</html> 
+	
+---
+
+tools 
+	- Notepad
+
+---
+how to cteate HTML file 
+	.html
+	.htm
+--------------------
+Browser
+
+	- Chrome
+	- Firefox
+	- IE
+	- Safari
+	- Opera
+---------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+		
+		
+		
+		
+		
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

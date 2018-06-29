@@ -1,0 +1,245 @@
+
+
+in css 
+
+	Media queries  if condition 
+	-------------
+	
+	@media 
+	meta tag
+		
+		viewport 
+		
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	
+	desktop 
+	laptops  
+	
+	ipad 
+	
+	mobiles 
+		- browser
+		- native apps
+	--------------------------------------------------------------------------------
+	
+
+	two ways we can write the javascript 
+	
+		1) internal javascript
+		2) external javascript 
+	
+	
+	
+	
+	
+	
+		JavaScript
+ 
+		•	Getting Started
+		
+			o	An introduction to JavaScript
+			o	Fundamentals of JS
+			o	Writing Simple Example
+			o	Before you should know
+			
+		•	Language Basics
+		
+			o	Data Types 
+					- number
+					- String
+					- boolean
+					- array
+					- object
+					- function
+					
+					- null 
+					- undefined
+					
+					
+					var a;  // undefined
+					
+					var a = null;  // null 
+					
+					
+				var a =	'abc';  // number
+					
+					
+					
+				var a = 10;...
+				
+			o	Variables  -- scope of the variable -
+					local and globel -- 
+			o	Comments   --
+				how to write the comments in js
+				
+					// variable is to store the value username
+			
+		•	Operators  --
+		
+			o	Arithmetic Operators
+					+ - * / %
+				
+				2+3+4-3*4/5  - 
+				
+				
+			o	Comparison Operators
+			
+			o	Logical Operators
+			
+			o	Assignments
+				 =   + 
+			
+			o	Ternary
+			
+		•	Conditional Statements  --
+		
+			o	if  
+				
+					if(expression)
+			
+			o	if else   if(expression){} else {} 
+			o	if else if else
+			o	switch --
+					 write a program to find a day name 
+
+					var date = new Date();
+					var today = date.getDay();
+
+					if(today == 1){
+					  alert('week first day : Monday');
+					} else if(today == 2){
+
+						alert('week first day : thuasday');
+					}else if(today == 3){
+
+						alert('week first day : wednessday');
+					}else if(today == 4){
+
+						alert('week first day : thursday');
+					}else if(today ==5 ){
+
+						alert('week first day : friday');
+					}else if(today ==6 ){
+
+						alert('week first day : saturday');
+					}else if(today ==7 ){
+
+						alert('week first day : sunday');
+					}
+					
+					
+					switch(today) {
+					
+						case 1:
+							alert('today is MOnday');
+							break;
+						case 2:
+							alert('today is 2');
+							break;
+						case 3:
+							alert('today is 3');
+							break;
+						case 4:
+						alert('today is 4');
+						break;
+						
+						default:
+							text = "I have never heard of that fruit...";
+					}
+					
+				
+					
+					var d = new Date()
+					var time =  d.getHours()+":"+d.getMiniuts()+":"+d.seconds();
+					
+				
+			o	break
+			
+		•	Loops
+		
+			o	For
+				
+				for(initilization; condition; increment/decrement){
+				
+					// statements to excute
+				};
+			
+				
+				for(var i=0; i<10; i++){
+					
+				}
+			
+			o	For in
+			o	While
+			o	Do while
+			
+			o	continue
+			
+		•	Arrays, string methods
+		
+		
+		•	Events   -- 
+		
+		•	Functions  --
+		
+			o	Create function
+			o	Closures
+			
+		•	Dialog Boxes   --
+			o	alert
+			o	confirm
+			o	prompt
+			
+		•	Redirect
+			o	Window. Location  --
+			o	History
+			o	User Agent (Browser/Device Target)
+			
+		•	Error Handling
+			runtime errors
+		•	JavaScript Objects
+			o	Objects
+			o	Number
+			o	Boolean
+			o	Strings
+			o	Arrays
+			o	Date
+			o	Math
+			o	RegExp
+			o	HTML DOM
+		•	Validations
+		•	Object Oriented JavaScript
+			o	Class
+			o	Objects
+			o	Property
+			o	Method
+			o	Constructor
+			o	Inheritance
+			o	Encapsulation
+			o	Abstraction
+			o	Polymorphism
+		•	JS References
+		•	JS Cheat Sheet
+		•	JS Custom Plugin Create
+
+	Jacript examples and doubt classes
+	
+	14/15th
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>JS</title>
+
+<noscript>
+	HI dude, Javascript is disabled in your browser, Please enable. things will work out. 
+	
+	for chrome to enable the JAscript :
+		steps:
+</noscript>
+
+<script>
+			function login(){
+		if(document.getElementsByClassName('userPwd') && document.getElementsByClassName('userPwd').length){
+		var userName  =  document.getElementsByClassName('userPwd')[0].value;
+		
+		var password = document.getElementsByClassName('userPwd')[1].value;
+		
+		
+		alert("UserName:"+ userName +", Password: "+password);
+	} else{
+		alert('no inputs');
+		
+	}
+	
+	
+	}
+</script>
+
+
+</head>
+<body>
+
+
+<div>Hello world</div>
+
+<input type="submit" onClick="login();"/>
+</body>
+</html>

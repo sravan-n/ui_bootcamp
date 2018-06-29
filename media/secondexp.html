@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+#page{
+
+	width:300px;
+	margin:10px;
+	background: green;
+	height:300px;
+	float:left;
+}
+
+#page1{
+
+	width:300px;
+	margin:10px;
+	background: green;
+	height:300px;
+	float:left;
+}
+
+@media only screen and (max-width : 768px){
+	#page{
+		background:blue;
+		height:300px;
+		width:100%;
+		float:left;
+	}
+	#page1{
+		background:blue;
+		height:300px;
+		width:100%;
+		float:left;
+	}
+}
+
+@media only screen and (max-width : 400px){
+	#page{
+		background:yellow;
+	}
+}
+</style>
+</head>
+<body>
+
+
+<div id="page"></div>
+<div id="page1"></div>
+
+</body>
+</html>
